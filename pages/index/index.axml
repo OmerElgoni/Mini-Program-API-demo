@@ -1,0 +1,9 @@
+<view style="width: 100%; text-align: center;">
+  <form onSubmit="goToDisplayPage">
+    <label>Country</label>
+    <input name="country" type="text" placeholder="South Africa" />
+    <button form-type="submit">
+    View Country Cases
+    </button>
+  </form>
+</view>

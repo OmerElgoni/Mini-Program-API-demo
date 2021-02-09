@@ -1,0 +1,7 @@
+<view class="lines">
+  <text>Country: {{country.Country}} </text>
+  <text>Last Updated: {{country.Date.slice(0,10)}}</text>
+  <text>Total confirmed Cases: {{country.TotalConfirmed.toLocaleString('en')}}</text>
+  <text>Total Deaths: {{country.TotalDeaths.toLocaleString('en')}}</text>
+  <text>Total Recoveries: {{country.TotalRecovered.toLocaleString('en')}}</text>
+</view>

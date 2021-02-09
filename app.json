@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/displayPage/displayPage"
+  ],
+  "window": {
+    "defaultTitle": "API demo"
+  }
+}
